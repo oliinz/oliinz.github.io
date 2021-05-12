@@ -7,6 +7,4 @@ title: "Home"
 date: 2021-05-12
 ---
 
-# Welcome to my blog
-
-Hello! Have a nice day!
+Hello! Welcome to my blog. Have a nice day!
