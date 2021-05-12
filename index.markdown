@@ -9,4 +9,4 @@ date: 2021-05-12
 
 # Welcome to my blog
 
-I write all sorts of stuff from tech to regular life ramblings. Thanks for visiting :-)
+Hello! Have a nice day!
