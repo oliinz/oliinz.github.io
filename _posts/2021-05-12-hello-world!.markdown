@@ -20,7 +20,7 @@ Enemy best roll (+10%) = 3600 + 10% = 3960
 ```
 Dito, kahit ang naka kuha ka ng -10% , mas mataas pa rin nakuha mo kesa sa enemy na may +10% dahil sobrang baba ng stats niya or countered mo ang element niya.
 
-2️⃣ Fire > Earth > Lightining > Water > Fire. A question I had as a newb:  pano kapag EARTH ang element ng hero ko tapos ang enemy ay Water, may effect ba ito sa random roll? Kasi base sa diagram *parang* mas malakas ang earth sa water since lightning is stronger than water tapos earth is stronger than lightning :thinking:
+2️⃣ Fire > Earth > Lightining > Water > Fire. A question I had as a newb:  pano kapag EARTH ang element ng hero ko tapos ang enemy ay Water, may effect ba ito sa random roll? Kasi base sa diagram *parang* mas malakas ang earth sa water since lightning is stronger than water tapos earth is stronger than lightning 🤔
 
 **answer:** Walang effect. Ang kinoconsider lang ng formula is yung weakness and strength ng isang element. Kung yung element ng hero mo ay strong against sa enemy, you get a bonus(+0.075), pero kung yung enemy element is stronger than your hero's element,  deduction (-0.075). 
 
@@ -37,7 +37,7 @@ HERO  +  WEAPON vs ENEMY = GOOD or BAD?
 🌳  +  💦  vs  🔥  = BAD 
 
 ⚡  +  🌳  vs  ⚡ = Not great, not terrible
-```:sweat_drops::sweat_drops::sweat_drops::sweat_drops:
+```💦💦
 
 **Hindi guarantee yung good combination ng elements.** Kahit good combination yan, depende pa rin sa power ng enemy vs hero. See point #3️⃣.
 
@@ -55,7 +55,7 @@ Pag meron nang opportunity para sa 100% win, grab ko na.
 Wala akong data to back this up and if anyone can prove me wrong, edit ko nalang. Help: Need real data. 
 
 5️⃣ "98% chance daw, should I use 200 stamina?". 
-I wouldn't risk it. Sayang. Don't underestimate the 2% or kahit 1% or whatever. If you lose, isipin mo nalang it's worth almost **A WHOLE DAY** of potential earnings. You can try it with 40 stamina, then hope na yung next batch na itho-throw sayo ni *KROGE*:kroge:  ay may 100%. 
+I wouldn't risk it. Sayang. Don't underestimate the 2% or kahit 1% or whatever. If you lose, isipin mo nalang it's worth almost **A WHOLE DAY** of potential earnings. You can try it with 40 stamina, then hope na yung next batch na itho-throw sayo ni *KROGE* ay may 100%. 
 
 You can also try to set to 80 or 120 stamina to save gas then hope you win. You save gas + you get to feel great for beating the 98% chance. I don't recommend doing this. Is it worth the risk of losing 2 rounds to save gas? No, unless masyadong mahal ang BNB for gas, I guess?  
 
