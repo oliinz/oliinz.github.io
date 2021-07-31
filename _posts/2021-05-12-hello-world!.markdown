@@ -63,7 +63,7 @@ I wouldn't risk it. Sayang. Don't underestimate the 2% or kahit 1% or whatever. 
 You can also try to set to 80 or 120 stamina to save gas then hope you win. You save gas + you get to feel great for beating the 98% chance. I don't recommend doing this. Is it worth the risk of losing 2 rounds to save gas? No, unless masyadong mahal ang BNB for gas, I guess?  
 
 6️⃣ I appreciate the oracle system. 
-I don't know why others hate it, I may be missing something pero I think it's a great selling point for those looking to earn a little ~~hehe little lang daw~~. If I understand correctly, the oracle is there to keep the rewards, and in-game expenses consistent (in usd) no matter the price of SKILL. This is great since walang uncertainty sa spending and earning. You spend and earn the same amount in USD. I might be wrong though and you might not agree with me which is fine. I'm willing to accept corrections. Bummer they *overrode* it. I hope they fix it.
+I don't know why others hate it, I may be missing something pero I think it's a great selling point for those looking to earn a little ~~hehe little lang daw~~. If I understand correctly, the oracle is there to keep the rewards, and in-game expenses consistent (in usd) no matter the price of SKILL. This is great since walang uncertainty sa spending and earning. You SKILL you pay for spending and get for earning would be of the same value in USD every time. I might be wrong though and you might not agree with me which is fine. Bummer they *overrode* it. I hope they fix it.
 
 ----------
 
