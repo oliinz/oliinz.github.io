@@ -26,7 +26,8 @@ Dito, kahit ang naka kuha ka ng -10% , mas mataas pa rin nakuha mo kesa sa enemy
 
 You also get bonus if your hero's element is the same as your weapons **main** element (+0.0075).  
 
-(Emoji-filled) Example: 
+(Emoji-filled) Example:  
+
 ```
 🔥 > 🌳 > ⚡ > 💦 > 🔥
 
@@ -37,7 +38,9 @@ HERO  +  WEAPON vs ENEMY = GOOD or BAD?
 🌳  +  💦  vs  🔥  = BAD 
 
 ⚡  +  🌳  vs  ⚡ = Not great, not terrible
-```💦💦
+```
+
+💦💦
 
 **Hindi guarantee yung good combination ng elements.** Kahit good combination yan, depende pa rin sa power ng enemy vs hero. See point #3️⃣.
 
