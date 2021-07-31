@@ -64,7 +64,7 @@ I don't know why others hate it, I may be missing something pero I think it's a 
 
 ----------
 
-📌 Link to the extension Github page: https://github.com/oliinz/cb-assistant 
+📌 Link to the extension Github page: [cb-asssistant](https://github.com/oliinz/cb-assistant) 
 
 About the extension: 
 One-click tool that runs 1000 battle simulations against each enemy and returns the percentage of wins out of 1000 battles. 100% = 1000 out of 1000 battles won. Click the extension multiple times para sigurado sa percentage. More info on the github page linked above including installation, usage, and information on computation. For me, mas convenient ito kasi no need na to input things, or switch tab. Ping me or message me if you're having trouble with the installation.
@@ -74,3 +74,5 @@ One-click tool that runs 1000 battle simulations against each enemy and returns 
 *The information provided here are of my own. And though I aim for, I cannot guarantee factuality as these were derived from my own experiences and discoveries. The game updates frequently and some of the things I said here could be outdated in a day. DYOR.*
 
 Thanks for reading 💙  ping me for any suggestions/clarifications/corrections
+
+[Screenshot of the game with the extension activated](https://camo.githubusercontent.com/a4aee8294c26900d6c158c1c2799a1ef4a0682a933085a810549c8ede4ffbcca/68747470733a2f2f706963632e696f2f434b4c4d6759572e706e67)
