@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello World!"
+title:  "CB Notes"
 date:   2021-08-01 20:13:52 +0800
 categories: random
 ---
