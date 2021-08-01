@@ -24,7 +24,7 @@ Dito, kahit ang naka kuha ka ng -10% , mas mataas pa rin nakuha mo kesa sa enemy
 
 **answer:** Walang effect. Ang kinoconsider lang ng formula is yung weakness and strength ng isang element. Kung yung element ng hero mo ay strong against sa enemy, you get a bonus(+0.075), pero kung yung enemy element is stronger than your hero's element,  deduction (-0.075). 
 
-You also get bonus if your hero's element is the same as your weapons **main** element (+0.0075).  
+You also get bonus if your hero's element is the same as your weapons **main** element (+0.075).  
 
 (Emoji-filled) Example:  
 
@@ -44,7 +44,7 @@ HERO  +  WEAPON vs ENEMY = GOOD or BAD?
 
 **Hindi guarantee yung good combination ng elements.** Kahit good combination yan, depende pa rin sa power ng enemy vs hero. See point #3️⃣.
 
-Also, parang maliit lang yung 0.0075 pero **significant** siya. Kase yung roll mo is multiplied by 1 pero kung may + 0.0075 ka, multiplied by 1.0075 na ang roll mo. Even better kung 1.015 (hero element is directly stronger than enemy + weapon element is the same as hero element)
+Also, parang maliit lang yung 0.075 pero **significant** siya. Kase yung roll mo is multiplied by 1 pero kung may + 0.075 ka, multiplied by 1.075 na ang roll mo. Even better kung 1.15 (hero element is directly stronger than enemy + weapon element is the same as hero element)
 
 3️⃣ Kahit same element ang hero and weapon tapos countered ang enemy element, hindi pa rin sure na mataas ang probability of winning. Minsan kase masyadong mataas ang power ng enemy na kahit countered mo sya, malaki pa rin ang chance of losing. Kaya without the simulator, pwede ka ma-trap kung sa elements ka lang titingin.
 
